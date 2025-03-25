@@ -16,7 +16,7 @@ Features:
 - There is traffic encryption using OpenSSL.
 
 ### How to use:
-
+- Generate a certificate.
 - Start the server.
 - Start the Redis database.
 - Next, start the client and register, then log in to your account and chat.
