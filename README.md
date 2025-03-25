@@ -17,6 +17,6 @@ Features:
 
 ### How to use:
 - Generate a certificate.
-- Start the server.
 - Start the Redis database.
+- Start the server.
 - Next, start the client and register, then log in to your account and chat.
